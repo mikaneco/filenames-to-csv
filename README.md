@@ -16,7 +16,7 @@ This Ruby script reads all `.txt` files in a specified folder and generates a CS
 2. Update the `folder_path` variable in the script to point to your folder.
 3. Run the script:
    ```bash
-   ruby your_script_name.rb
+   ruby gen_csv.rb
    ```
 4. The output CSV (`output.csv`) will be generated in the same directory as the script.
 
